@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A1DEF72E-3E09-CE34-355C-02129A6773E2}|puffandprill.client\\puffandprill.client.esproj|c:\\users\\dame9\\documents\\projects\\puffandprill\\webbsidan\\puffandprill\\puffandprill.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A1DEF72E-3E09-CE34-355C-02129A6773E2}|puffandprill.client\\puffandprill.client.esproj|solutionrelative:puffandprill.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1DEF72E-3E09-CE34-355C-02129A6773E2}|puffandprill.client\\puffandprill.client.esproj|c:\\users\\dame9\\documents\\projects\\puffandprill\\webbsidan\\puffandprill\\puffandprill.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A1DEF72E-3E09-CE34-355C-02129A6773E2}|puffandprill.client\\puffandprill.client.esproj|solutionrelative:puffandprill.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.jsx",
-              "DocumentMoniker": "C:\\Users\\dame9\\Documents\\Projects\\PuffAndPrill\\Webbsidan\\PuffAndPrill\\puffandprill.client\\src\\main.jsx",
-              "RelativeDocumentMoniker": "puffandprill.client\\src\\main.jsx",
-              "ToolTip": "C:\\Users\\dame9\\Documents\\Projects\\PuffAndPrill\\Webbsidan\\PuffAndPrill\\puffandprill.client\\src\\main.jsx",
-              "RelativeToolTip": "puffandprill.client\\src\\main.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-04-19T17:29:33.762Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,7 +24,7 @@
               "RelativeDocumentMoniker": "puffandprill.client\\src\\App.jsx",
               "ToolTip": "C:\\Users\\dame9\\Documents\\Projects\\PuffAndPrill\\Webbsidan\\PuffAndPrill\\puffandprill.client\\src\\App.jsx",
               "RelativeToolTip": "puffandprill.client\\src\\App.jsx",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2026-04-19T17:25:34.655Z",
               "EditorCaption": ""
