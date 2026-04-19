@@ -1,0 +1,74 @@
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\spa.proxy.json
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\appsettings.json
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\PuffAndPrill.Server.staticwebassets.endpoints.json
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\PuffAndPrill.Server.exe
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\PuffAndPrill.Server.deps.json
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\PuffAndPrill.Server.runtimeconfig.json
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\PuffAndPrill.Server.dll
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\PuffAndPrill.Server.pdb
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.csproj.AssemblyReference.cache
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\spa.proxy.json
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.AssemblyInfoInputs.cache
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.AssemblyInfo.cs
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.csproj.CoreCompileInputs.cache
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\scopedcss\bundle\PuffAndPrill.Server.styles.css
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndP.8A0946FD.Up2Date
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.dll
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\refint\PuffAndPrill.Server.dll
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.pdb
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.genruntimeconfig.cache
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\ref\PuffAndPrill.Server.dll
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\appsettings.json
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\PuffAndPrill.Server.staticwebassets.endpoints.json
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\spa.proxy.json
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\PuffAndPrill.Server.exe
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\PuffAndPrill.Server.deps.json
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\PuffAndPrill.Server.runtimeconfig.json
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\PuffAndPrill.Server.dll
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\PuffAndPrill.Server.pdb
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.csproj.AssemblyReference.cache
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\spa.proxy.json
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.AssemblyInfoInputs.cache
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.AssemblyInfo.cs
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.csproj.CoreCompileInputs.cache
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\scopedcss\bundle\PuffAndPrill.Server.styles.css
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndP.8A0946FD.Up2Date
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.dll
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\refint\PuffAndPrill.Server.dll
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.pdb
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\PuffAndPrill.Server.genruntimeconfig.cache
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\PuffAndPrill.Server\obj\Debug\net10.0\ref\PuffAndPrill.Server.dll

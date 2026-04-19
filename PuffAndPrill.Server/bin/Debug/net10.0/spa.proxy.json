@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:60270",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\dame9\\Documents\\Projects\\PuffAndPrill\\Webbsidan\\PuffAndPrill\\PuffAndPrill.Server\\..\\puffandprill.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

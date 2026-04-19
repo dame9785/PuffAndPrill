@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="puffandprill.client/puffandprill.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="PuffAndPrill.Server/PuffAndPrill.Server.csproj" />
+</Solution>

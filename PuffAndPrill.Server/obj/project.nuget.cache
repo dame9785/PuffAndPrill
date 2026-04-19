@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tBj8AfnWcQ8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dame9\\Documents\\Projects\\PuffAndPrill\\Webbsidan\\PuffAndPrill\\PuffAndPrill.Server\\PuffAndPrill.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dame9\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\dame9\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\10.0.6\\microsoft.aspnetcore.spaproxy.10.0.6.nupkg.sha512",
+    "C:\\Users\\dame9\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

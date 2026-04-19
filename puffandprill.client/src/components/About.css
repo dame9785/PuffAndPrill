@@ -1,0 +1,37 @@
+.about-page {
+    min-height: 100vh;
+    padding: 140px 20px 80px;
+    background: radial-gradient(circle at top left, rgba(255, 0, 170, 0.12), transparent 30%), radial-gradient(circle at top right, rgba(0, 200, 255, 0.12), transparent 30%), linear-gradient(135deg, #0b0b12, #111827);
+    color: white;
+    display: flex;
+    justify-content: center; /* centrerar horisontellt */
+    align-items: center; /* centrerar vertikalt */
+    padding: 20px;
+}
+.about-container {
+    max-width: 800px;
+    color: white;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.03);
+    padding: 40px;
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    transform: translateY(-20px); /* liten optisk justering */
+}
+
+    .about-container h1 {
+        font-size: 48px;
+        margin-bottom: 20px;
+        background: linear-gradient(90deg, #ff4fd8, #4fd8ff);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-shadow: 0 0 2px #ff4fd8;
+
+    }
+
+    .about-container p {
+        font-size: 18px;
+        line-height: 1.6;
+        margin-bottom: 15px;
+        color: #ccc;
+    }

@@ -1,0 +1,2 @@
+C:\Users\dame9\Documents\Projects\Puff & Prill\Webbsidan\PuffAndPrill\puffandprill.client\obj\Debug\puffandprill.client.esproj.CoreCompileInputs.cache
+C:\Users\dame9\Documents\Projects\PuffAndPrill\Webbsidan\PuffAndPrill\puffandprill.client\obj\Debug\puffandprill.client.esproj.CoreCompileInputs.cache
